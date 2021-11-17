@@ -12,10 +12,6 @@ mi ante e seme tawa pana pi+sitelen+pona? mi pali e ni taso:
 2. mi kepeken ilo GITHUB PAGES. ilo ni li kepeken ilo JEKYLL tawa ni: ilo JEKYLL li pali e lipu pi+pona+lukin kepeken lipu pi nasin sitelen MARKDOWN.
 3. mi pana e lipu ilo CSS ni: `assets/css/styles.scss`. sina ken lukin e ona kepeken [linja wawa ni](https://github.com/joelthomastr/lipukepekenlinjapona/blob/gh-pages/assets/css/style.scss).
 
-- mi
-- lukin
-- taso
-
 lipu ni li pona+lukin tawa sina la o ante ala e ijo insa. o sitelen e toki sina taso!
 
 ## sona ilo
@@ -30,24 +26,53 @@ lipu pi++ante sitelen la ilo PREVIEW li lon, taso o sona e ni: sina ken ala luki
 
 #### sona pi++nasin sitelen MARKDOWN
 
+o lukin. nanpa wan la sina lukin e sitelen pi++nasin sitelen MARKDOWN. nanpa tu la sina lukin e nasin lukin pi sitelen sama.
+
+##### nanpa wan
+
 ```markdown
-Syntax highlighted code block
+# lawa nanpa wan
+## lawa nanpa tu
+### lawa nanpa tu wan
 
-# Header 1
-## Header 2
-### Header 3
+- kulupu
+- ijo
+- pi
+- nanpa
+- ala
 
-- Bulleted
-- List
+1. kulupu
+2. ijo
+3. nanpa
 
-1. Numbered
-2. List
+**pimeja** anu _sinpin_ anu `toki ilo` 
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-
+[linja wawa](toki lon) en ![sitelen](toki lon)
 ```
+
+##### nanpa tu
+
+---
+
+# lawa nanpa wan
+## lawa nanpa tu
+### lawa nanpa tu wan
+
+- kulupu
+- ijo
+- pi
+- nanpa
+- ala
+
+1. kulupu
+2. ijo
+3. nanpa
+
+**pimeja** anu _sinpin_ anu `toki ilo` 
+
+[linja wawa](toki lon) en ![sitelen](toki lon)
+
+---
 
 sina wile e sona mute pi++nasin sitelen MARKDOWN la o lukin e [lipu ni](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
