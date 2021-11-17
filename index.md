@@ -1,10 +1,28 @@
 ## o kama pona!
 
-lipu ni li kepeken nasin sitelen MARKDOWN. o lukin e [lipu ni pi++ante sitelen](https://github.com/joelthomastr/lipukepekenlinjapona/edit/gh-pages/index.md). lipu ni li pana e nasin ni tawa sina: sina ken ante e lipu.
+lipu ni li kepeken lipu ilo "linja pona" tawa sitelen+pona. sina ken pali e lipu sama ni kepeken wawa lili, kepeken tenpo lili.
 
-sina wile pali e ijo sama ni la sina ken pali e ni kepeken wawa lili, kepeken tenpo lili. o lukin e ma pi++lipu ni [lon ni](https://github.com/joelthomastr/lipukepekenlinjapona/tree/gh-pages). sina kepeken ilo FORK la sina kama jo e lipu sama lon ma GITHUB sina. ni la sina ken pali e wile sina.
+o lukin e ma pi++lipu ni [kepeken linja wawa ni](https://github.com/joelthomastr/lipukepekenlinjapona/tree/gh-pages). sina kepeken ilo FORK la sina kama jo e lipu sama lon ma GITHUB sina. ni la sina ken ante e toki ale, sina ken pali e wile sina.
 
-### sona pi++nasin sitelen MARKDOWN
+## ijo ante suli li seme?
+
+mi ante e seme tawa pana pi sitelen+pona? mi pali e ni taso:
+
+1. mi pana e lipu ilo pi linja pona tawa [poki pi lipu ni](https://github.com/joelthomastr/lipukepekenlinjapona/tree/gh-pages).
+2. mi kepeken ilo GITHUB PAGES. ilo ni li kepeken ilo JEKYLL tawa ni: ilo JEKYLL li pali e lipu pi pona+lukin kepeken lipu pi nasin sitelen MARKDOWN.
+3. mi pana e lipu ilo CSS ni: `assets/css/styles.scss`. sina ken lukin e ona kepeken [linja wawa ni](https://github.com/joelthomastr/lipukepekenlinjapona/blob/gh-pages/assets/css/style.scss).
+
+lipu ni li pona lukin tawa sina la sina o ante ala e ijo. o kepeken 
+
+## sona ilo
+
+mi o pana e sona pi nasin pali. tenpo sama la lipu ni li kepeken ijo mute pi nasin sitelen MARKDOWN. sina ken lukin e ni: sina ken kepeken nasin sitelen MARKDOWN tawa seme?
+
+### nasin sitelen MARKDOWN
+
+lipu ni li kepeken nasin sitelen MARKDOWN. sina wile lukin e sitelen ni la o lukin e [lipu pi++ante sitelen](https://github.com/joelthomastr/lipukepekenlinjapona/edit/gh-pages/index.md). lipu pi++ante sitelen la ilo PREVIEW li lon, taso o sona e ni: sina ken ala lukin e sitelen sina lon sitelen+pona lon ilo PREVIEW. sina wile kama sin tawa lipu ni la o kepeken [linja ni](https://joelthomastr.github.io/lipukepekenlinjapona/).
+
+#### sona pi++nasin sitelen MARKDOWN
 
 ```markdown
 Syntax highlighted code block
@@ -31,7 +49,7 @@ sina wile e sona mute pi++nasin sitelen MARKDOWN la o lukin e [lipu ni](https://
 
 lipu ni li kepeken ilo [JEKYLL](https://jekyllrb.com/) tawa ni: mi pana e lipu lon nasin sitelen MARKDOWN tawa ilo sona la ilo sona li kepeken ilo JEYKYLL tawa ni: ilo sona li sona e nasin pana pona tawa pona+lukin.
 
-nasin pana mute li lon tawa ilo JEKYLL. sina wile ante e nasin pana la o sitelen e nimi ante pi nasin pana lon lipu `_config.yml`.
+nasin pana mute li lon tawa ilo JEKYLL. sina wile ante e nasin pana la o sitelen e nimi ante pi nasin pana lon lipu `_config.yml`. taso ken la sina wile ante e sitelen lili lon lipu ilo CSS tan ni: ken la toki pi toki [ilo_ni_li_ilo_] li lon, taso lipu ilo CSS li kepeken linja pona tawa ona.
 
 ### sona ante
 
