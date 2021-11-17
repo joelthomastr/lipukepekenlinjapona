@@ -8,16 +8,8 @@
     src: url("https://joelthomastr.github.io/tokipona/linja-pona-4.2.otf");
 }
 
-footer p {
-    font: inherit;
-}
 
-footer p a {
-    font: inherit;
-}
-
-
-h1,h2,h3,h4,h5,h6,p:not(.view) {
+h1,h2,h3,h4,h5,h6,p:not(.view),:not(footer p) {
     font-family: 'linja pona';
     text-rendering: optimizeLegibility;
     font-size: 1.5em;
