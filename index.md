@@ -1,12 +1,10 @@
 ## lipu kepeken linja pona: o kama pona!
 
-lipu ni li kepeken ilo MARKDOWN. o lukin e [lipu ni pi ante sitelen](https://github.com/joelthomastr/lipukepekenlinjapona/edit/gh-pages/index.md). lipu ni li pana e nasin ni tawa sina: sina ken ante e lipu pi ilo MARKDOWN. ken la sina ante e lipu taso sina wile sona e ni: mi pana e lipu ni tawa jan ale la jan ale li lukin e seme? lipu pi ante sitelen la sina ken lukin e ni.
+lipu ni li kepeken nasin sitelen MARKDOWN. o lukin e [lipu ni pi ante sitelen](https://github.com/joelthomastr/lipukepekenlinjapona/edit/gh-pages/index.md). lipu ni li pana e nasin ni tawa sina: sina ken ante e lipu.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+sina wile pali e ijo sama ni la sina ken pali e ni kepeken wawa lili, kepeken tenpo lili. o lukin e ma pi lipu ni [lon ni](https://github.com/joelthomastr/lipukepekenlinjapona/tree/gh-pages). sina kepeken ilo FORK la sina kama jo e lipu sama lon ma GITHUB sina. ni la sina ken pali e wile sina.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### sona pi++nasin sitelen MARKDOWN
 
 ```markdown
 Syntax highlighted code block
@@ -24,14 +22,18 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
+
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+sina wile e sona mute pi++nasin sitelen MARKDOWN la o lukin e [lipu ni](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
-### Jekyll Themes
+### ilo JEKYLL
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/joelthomastr/lipukepekenlinjapona/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+lipu ni li kepeken ilo [JEKYLL](https://jekyllrb.com/) tawa ni: mi pana e lipu lon nasin sitelen MARKDOWN tawa ilo sona la ilo sona li kepeken ilo JEYKYLL tawa ni: ilo sona li sona e nasin pana pona tawa pona lukin.
 
-### Support or Contact
+nasin pana mute li lon tawa ilo JEKYLL. sina wile ante e nasin pana la o sitelen e nimi ante pi nasin pana lon lipu `_config.yml`.
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### sona ante
+
+sona mute pi ilo GITHUB PAGES li lon [lipu ni](https://docs.github.com/categories/github-pages-basics/). sina ken toki tawa kulupu GITHUB lon [ma ni](https://support.github.com/contact).
+```
