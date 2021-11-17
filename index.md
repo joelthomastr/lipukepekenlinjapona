@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## lipu kepeken linja pona: o kama pona!
 
-You can use the [editor on GitHub](https://github.com/joelthomastr/lipukepekenlinjapona/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+lipu ni li kepeken ilo MARKDOWN. o lukin e [lipu ni pi ante sitelen](https://github.com/joelthomastr/lipukepekenlinjapona/edit/gh-pages/index.md). lipu ni li pana e nasin ni tawa sina: sina ken ante e lipu pi ilo MARKDOWN. ken la sina ante e lipu taso sina wile sona e ni: mi pana e lipu ni tawa jan ale la jan ale li lukin e seme? lipu pi ante sitelen la sina ken lukin e ni.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
