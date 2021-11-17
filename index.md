@@ -1,4 +1,4 @@
-## lipu kepeken linja pona: o kama pona!
+## o kama pona!
 
 lipu ni li kepeken nasin sitelen MARKDOWN. o lukin e [lipu ni pi++ante sitelen](https://github.com/joelthomastr/lipukepekenlinjapona/edit/gh-pages/index.md). lipu ni li pana e nasin ni tawa sina: sina ken ante e lipu.
 
