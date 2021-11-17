@@ -1,6 +1,6 @@
 ## o kama pona!
 
-lipu ni li kepeken lipu ilo "linja pona" tawa sitelen+pona. sina ken pali e lipu sama ni kepeken wawa lili, kepeken tenpo lili.
+lipu ni li kepeken lipu ilo pi++linja pona tawa sitelen+pona. sina ken pali e lipu sama ni kepeken wawa lili, kepeken tenpo lili.
 
 o lukin e ma pi++lipu ni [kepeken linja wawa ni](https://github.com/joelthomastr/lipukepekenlinjapona/tree/gh-pages). sina kepeken ilo FORK la sina kama jo e lipu sama lon ma GITHUB sina. ni la sina ken ante e toki ale, sina ken pali e wile sina.
 
