@@ -36,4 +36,3 @@ nasin pana mute li lon tawa ilo JEKYLL. sina wile ante e nasin pana la o sitelen
 ### sona ante
 
 sona mute pi ilo GITHUB PAGES li lon [lipu ni](https://docs.github.com/categories/github-pages-basics/). sina ken toki tawa kulupu GITHUB lon [ma ni](https://support.github.com/contact).
-```
