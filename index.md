@@ -12,6 +12,10 @@ mi ante e seme tawa pana pi+sitelen+pona? mi pali e ni taso:
 2. mi kepeken ilo GITHUB PAGES. ilo ni li kepeken ilo JEKYLL tawa ni: ilo JEKYLL li pali e lipu pi+pona+lukin kepeken lipu pi nasin sitelen MARKDOWN.
 3. mi pana e lipu ilo CSS ni: `assets/css/styles.scss`. sina ken lukin e ona kepeken [linja wawa ni](https://github.com/joelthomastr/lipukepekenlinjapona/blob/gh-pages/assets/css/style.scss).
 
+- mi
+- lukin
+- taso
+
 lipu ni li pona+lukin tawa sina la o ante ala e ijo insa. o sitelen e toki sina taso!
 
 ## sona ilo
