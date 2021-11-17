@@ -1,0 +1,14 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+@font-face {
+    font-family: 'linja pona';
+    src: url("https://joelthomastr.github.io/tokipona/linja-pona-4.2.otf");
+}
+
+body {
+    font-family: 'linja pona';
+    text-rendering: optimizeLegibility;
+}
