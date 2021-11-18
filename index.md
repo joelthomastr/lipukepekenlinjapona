@@ -47,7 +47,7 @@ o lukin. nanpa wan la sina lukin e sitelen pi++nasin sitelen MARKDOWN. nanpa tu 
 
 **pimeja** anu _sinpin_ anu `toki ilo` 
 
-[linja wawa](toki lon) en ![sitelen](toki lon)
+[linja wawa](toki-lon) en ![sitelen](toki-lon)
 ```
 
 ##### nanpa tu
