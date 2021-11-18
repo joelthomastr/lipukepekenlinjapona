@@ -80,7 +80,7 @@ sina wile e sona mute pi++nasin sitelen MARKDOWN la o lukin e [lipu ni](https://
 
 lipu ni li kepeken ilo [JEKYLL](https://jekyllrb.com/) tawa ni: mi pana e lipu lon nasin sitelen MARKDOWN tawa ilo sona la ilo sona li kepeken ilo JEYKYLL tawa ni: ilo sona li sona e nasin pana pona tawa pona+lukin.
 
-nasin pana mute li lon tawa ilo JEKYLL. sina wile ante e nasin pana la o sitelen e nimi ante pi nasin pana lon lipu `_config.yml`. taso sina pali e ni la ken la sina wile ante e sitelen lili lon lipu ilo CSS tan ni: ken la toki pi toki [_ilo_ni_li_ilo] li lon, taso lipu ilo CSS li kepeken linja pona tawa ona.
+nasin pana mute li lon tawa ilo JEKYLL. sina wile ante e nasin pana la o sitelen e nimi ante pi nasin pana lon lipu `_config.yml`. taso sina pali e ni la ken la sina wile ante e sitelen lili lon lipu ilo CSS tan ni: ken la toki pi+toki [_ilo_ni_li_ilo] li lon, taso lipu ilo CSS li kepeken linja pona tawa ona.
 
 ### sona ante
 
