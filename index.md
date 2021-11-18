@@ -4,11 +4,11 @@ lipu ni li kepeken lipu ilo pi++linja pona tawa sitelen+pona. sina ken pali e li
 
 o lukin e ma pi++lipu ni [kepeken linja wawa ni](https://github.com/joelthomastr/lipukepekenlinjapona/tree/gh-pages). sina kepeken ilo FORK la sina kama jo e lipu sama lon ma GITHUB sina. ni la sina ken ante e toki ale, sina ken pali e wile sina.
 
-## ijo ante suli li seme?
+## ijo+ante suli li seme?
 
 mi ante e seme tawa pana pi+sitelen+pona? mi pali e ni taso:
 
-1. mi pana e lipu ilo pi++linja pona tawa [poki pi lipu ni](https://github.com/joelthomastr/lipukepekenlinjapona/tree/gh-pages).
+1. mi pana e lipu ilo pi++linja pona tawa [poki pi++lipu ni](https://github.com/joelthomastr/lipukepekenlinjapona/tree/gh-pages).
 2. mi kepeken ilo GITHUB PAGES. ilo ni li kepeken ilo JEKYLL tawa ni: ilo JEKYLL li pali e lipu pi+pona+lukin kepeken lipu pi nasin sitelen MARKDOWN.
 3. mi pana e lipu ilo CSS ni: `assets/css/styles.scss`. sina ken lukin e ona kepeken [linja wawa ni](https://github.com/joelthomastr/lipukepekenlinjapona/blob/gh-pages/assets/css/style.scss).
 
@@ -20,7 +20,7 @@ mi o pana e sona pi++nasin pali. tenpo sama la lipu ni li kepeken ijo mute pi++n
 
 ### nasin sitelen MARKDOWN
 
-lipu ni li kepeken nasin sitelen MARKDOWN. sina wile lukin e sitelen ni la o lukin e [lipu pi++ante sitelen](https://github.com/joelthomastr/lipukepekenlinjapona/edit/gh-pages/index.md). sina wile kama sin tawa lipu ni la o kepeken [linja ni](https://joelthomastr.github.io/lipukepekenlinjapona/).
+lipu ni li kepeken nasin sitelen MARKDOWN. sina wile lukin e sitelen ni la o lukin e [lipu pi++ante sitelen](https://github.com/joelthomastr/lipukepekenlinjapona/blob/gh-pages/index.md). sina wile kama sin tawa lipu ni la o kepeken [linja ni](https://joelthomastr.github.io/lipukepekenlinjapona/).
 
 lipu pi++ante sitelen la ilo PREVIEW li lon, taso o sona e ni: sina ken ala lukin e sitelen sina lon sitelen+pona lon ilo PREVIEW. ken la ilo pi [lipu ni](https://ajlee2006.github.io/linjaponasandbox/) li pona tawa ni.
 
