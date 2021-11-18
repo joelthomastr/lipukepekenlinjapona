@@ -26,7 +26,7 @@ lipu pi++ante sitelen la ilo PREVIEW li lon, taso o sona e ni: sina ken ala luki
 
 #### sona pi++nasin sitelen MARKDOWN
 
-o lukin. nanpa wan la sina lukin e sitelen pi++nasin sitelen MARKDOWN. nanpa tu la sina lukin e nasin lukin pi sitelen sama.
+o lukin. nanpa wan la sina lukin e sitelen pi++nasin sitelen MARKDOWN. nanpa tu la sina lukin e nasin lukin pi+sitelen+sama.
 
 ##### nanpa wan
 
